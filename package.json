@@ -1,6 +1,6 @@
 {
   "name": "allex_jobondestroyablelib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS lib that wraps the allex_jobondestroyablelowlevellib",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/allex-libs/jobondestroyable.git"
+  },
+  "dependencies": {
+    "allex_jobondestroyablelowlevellib": "1.x"
   },
   "keywords": [
     "ecosystem:AllexJS",
