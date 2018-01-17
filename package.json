@@ -1,0 +1,26 @@
+{
+  "name": "allex_jobondestroyablelib",
+  "version": "1.0.0",
+  "description": "AllexJS lib that wraps the allex_jobondestroyablelowlevellib",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/jobondestroyable.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "job",
+    "on",
+    "destroyable",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/jobondestroyable/issues"
+  },
+  "homepage": "https://github.com/allex-libs/jobondestroyable#readme"
+}
