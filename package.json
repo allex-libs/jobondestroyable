@@ -1,6 +1,6 @@
 {
   "name": "allex_jobondestroyablelib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AllexJS lib that wraps the allex_jobondestroyablelowlevellib",
   "main": "index.js",
   "scripts": {
